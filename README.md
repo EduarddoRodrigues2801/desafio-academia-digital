@@ -16,3 +16,4 @@ Todavia, pude verificar que o banco de dados foi criado, juntamente com as tabel
 Trabalhei em cima do código por muitas horas. Solicitei ajuda. E por fim, não consegui replicar como gostaria o projeto, por isso, estou relatando.
 
 O código fonte não está intacto, foi muito manuseado. Detalhes de todo o projeto: https://github.com/cami-la/academia-digital
+Estou baixando o projeto
